@@ -1,4 +1,4 @@
-# John Qubit - VQE Quantum Simulator Dashboard
+# VQE Quantum Simulator Dashboard
 
 A real-time quantum simulation dashboard for Variational Quantum Eigensolvers (VQE) with multiple optimization methods.
 
