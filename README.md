@@ -40,8 +40,8 @@ pip install tkinter matplotlib numpy
 ### Quick Start
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/John-Qubit.git
-cd John-Qubit
+git clone https://github.com/ShawnPaulStanley/VQE-UI.git
+cd VQE-UI
 ```
 
 2. Install dependencies:
